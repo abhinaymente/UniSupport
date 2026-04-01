@@ -2,6 +2,9 @@ fastapi
 uvicorn
 pydantic
 langchain-groq
-sentence-transformers
 langchain-huggingface
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
 python-dotenv
